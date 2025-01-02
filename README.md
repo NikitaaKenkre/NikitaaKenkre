@@ -5,14 +5,13 @@
   <img src="https://github.com/user-attachments/assets/451a1c49-19b1-4fa6-9f9c-da3d753b5e47" alt="GIF">
 </p> 
 
-<p align="center">
+<p align="right">
   <a href="https://docs.google.com/document/d/1tjwlIg-gd9Q5ba9XIqJjfsaPZFkjMuu03uz1kSKekmA/edit?tab=t.0"><img src="https://komarev.com/ghpvc/?username=nikitaakenkre&label=Profile%20views&color=0e75b6&style=flat" alt="nikitaakenkre"/></a>
 </p>
 
 ---
 
-### 🌟 About Me
-
+### 🌟 About Me 
 - 🎓 MS in Management Of Technology from New York University
 - 💼 I’m passionate about **solving real-world business problems** with **data-driven solutions**.
 - 📊 Expert in **Business Analytics**, **Data Visualization**, and crafting **Data-Driven Business Strategies**.
@@ -28,6 +27,8 @@
 ### 📬 Contact Me
 
 - 📧 **Email:** [kenkrenikitaa@gmail.com](mailto:kenkrenikitaa@gmail.com)
+- <p align="left"><a href="www.linkedin.com/in/nikitaa-kenkre"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30" alt="LinkedIn"/></a>
+</p>
 
 ### 📄 More About My Experiences
 
