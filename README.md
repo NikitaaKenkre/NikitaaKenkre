@@ -2,7 +2,7 @@
 <h3 align="center">A Curious Girl in the Data World</h3>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/451a1c49-19b1-4fa6-9f9c-da3d753b5e47" alt="GIF">
+  <img src="https://github.com/user-attachments/assets/451a1c49-19b1-4fa6-9f9c-da3d753b5e47" alt="GIF" width="40%" height="auto">>
 </p> 
 
 <p align="right">
