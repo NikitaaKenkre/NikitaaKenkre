@@ -12,6 +12,7 @@
 ---
 
 ### 🌟 About Me 
+
 - 🎓 MS in Management Of Technology from New York University
 - 💼 I’m passionate about **solving real-world business problems** with **data-driven solutions**.
 - 📊 Expert in **Business Analytics**, **Data Visualization**, and crafting **Data-Driven Business Strategies**.
@@ -27,7 +28,8 @@
 ### 📬 Contact Me
 
 - 📧 **Email:** [kenkrenikitaa@gmail.com](mailto:kenkrenikitaa@gmail.com)
-- <p align="left"><a href="www.linkedin.com/in/nikitaa-kenkre"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30" alt="LinkedIn"/></a>
+- <p align="left">
+  <a href="https://www.linkedin.com/in/nikitaa-kenkre"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20" alt="LinkedIn"/> LinkedIn</a>
 </p>
 
 ### 📄 More About My Experiences
