@@ -14,10 +14,11 @@
 ### 🌟 About Me 
 
 - 🎓 MS in Management Of Technology from New York University
-- 💼 I’m passionate about **solving real-world business problems** with **data-driven solutions**.
+- 🌐 With **4 years of professional experience**, I have a proven track record of transforming business processes through data analytics and insightful visualizations.
 - 📊 Expert in **Business Analytics**, **Data Visualization**, and crafting **Data-Driven Business Strategies**.
-- 🧘‍♀️ Currently exploring **Meditation and Spirituality** to broaden my mental and emotional horizons.
+- 💼 I’m passionate about **solving real-world business problems** with **data-driven solutions**.
 - 🤝 I thrive on collaboration and am eager to work on projects that **challenge the status quo**.
+- 🧘‍♀️ Currently exploring **Meditation and Spirituality** to broaden my mental and emotional horizons.
 
 ### 🚀 My Strengths
 
@@ -35,10 +36,6 @@
 ### 📄 More About My Experiences
 
 - 📑 View my detailed experiences [Resume](https://docs.google.com/document/d/1tjwlIg-gd9Q5ba9XIqJjfsaPZFkjMuu03uz1kSKekmA/edit?tab=t.0).
-
-### 🎈 Fun Facts
-
-- 💃 **Dancer** | ✈️ **Traveller** | 🍔 **Foodie** | 🐶 **Dog Lover**
 
 ### 💻 Data Visualization Projects
 
@@ -77,4 +74,9 @@
     </tr>
   </table>
 </p>
+
+### 🎈 Fun Facts
+
+- 💃 **Dancer** | ✈️ **Traveller** | 🍔 **Foodie** | 🐶 **Dog Lover**
+
 
