@@ -30,7 +30,7 @@
 
 - 📧 **Email:** [kenkrenikitaa@gmail.com](mailto:kenkrenikitaa@gmail.com)
 - <p align="left">
-  <a href="https://www.linkedin.com/in/nikitaa-kenkre"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20" alt="LinkedIn"/> LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nikitaa-kenkre"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="20" height="20"/> LinkedIn</a>
 </p>
 
 ### 📄 More About My Experiences
