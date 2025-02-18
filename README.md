@@ -35,7 +35,7 @@
 
 ### 📄 More About My Experiences
 
-- 📑 View my detailed experiences [Resume](https://docs.google.com/document/d/1tjwlIg-gd9Q5ba9XIqJjfsaPZFkjMuu03uz1kSKekmA/edit?tab=t.0).
+- 📑 View my detailed experiences [Resume](https://docs.google.com/document/d/19kf5iVPxxiuZP01hCZzqKtZxVxpMtKa7S1nAmmwlIl8/edit?tab=t.0).
 
 ### 💻 Data Visualization Projects
 
