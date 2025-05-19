@@ -39,7 +39,7 @@
 
 ### 💻 Data Visualization Projects
 
-- 📊 **Tableau Dashboard on Adidas Sales:** View my dashboard that analyzes Adidas sales performance [here](https://public.tableau.com/app/profile/nikitaa.kenkre/vizzes).
+- 📊 **Tableau Public [here](https://public.tableau.com/app/profile/nikitaa.kenkre/vizzes).
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
